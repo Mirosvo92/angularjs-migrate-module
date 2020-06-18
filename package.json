@@ -21,7 +21,7 @@
     "@angular/router": "~7.2.0",
     "@angular/upgrade": "^7.2.10",
     "@uirouter/angular-hybrid": "^7.0.0",
-    "angular": "^1.7.8",
+    "angular": "^1.8.0",
     "core-js": "^2.5.4",
     "log": "^5.0.0",
     "rxjs": "~6.3.3",
